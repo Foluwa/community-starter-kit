@@ -1,10 +1,5 @@
 # welcome bot: A Probot App
 
-A community starter kit.
-
-## What it does
-
-Helps beginners get started quickly
 
 ## Getting started
 
